@@ -1,0 +1,5 @@
+m-type,energy-production,elect-for-heat,tech-price,price-change,tech-emissions,lifetime,shape,xcor,ycor,color,label,energy-production-building
+PV,1301,0,4000,-0.1,0.01,30,sun,93,97,45,PV.,650.5
+heatpump,1200,4000,6000,-0.1,0.01,15,electric outlet,83,97,55,HP.,
+"Insulation: walls, floor, roof",0.25,0,7500,0.1,0.1,lifetime,crate,98,97,35,Mins,
+Double glazing,0.25,0,3000,-0.1,0.1,15,square 2,88,97,105,Wins,
